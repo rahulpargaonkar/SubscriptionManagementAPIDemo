@@ -31,4 +31,9 @@ Sample APIS:
      - /getSubScriptionAmount/:productName/:startDate/:subscriptionType
  - b. Add Subscription of specific product for Perticular User
      - /AddSubscription/:email/:productName/:subscriptionType/:startDate
+
+
+ # command to Run
+   - go run main.go
+    
   
